@@ -9,5 +9,6 @@
 *.scss.map
 package.json
 /node_modules
+/scss
 
 # End of https://www.gitignore.io/api/sass
